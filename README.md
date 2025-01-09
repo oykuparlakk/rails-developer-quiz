@@ -437,6 +437,9 @@ Sizden aşağıdaki özellikleri içeren bir Rails uygulaması geliştirmeniz be
 ### **Cevap - 6**
 --------------------------------------------------------------------------------------------
 
+https://github.com/oykuparlakk/question-answer
+
+
 
 
 
